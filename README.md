@@ -78,13 +78,11 @@ Java | Spring Boot | MySQL | REST API | Hibernate
 
 
 ---
-
 ## 📊 GitHub Stats
 
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamparmarp70&show_icons=true)
+![Shubham's GitHub Stats](https://github-readme-stats-eight-theta-46.vercel.app/api?username=shubhamparmarp70&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamparmarp70&layout=compact)
-
+![Top Languages](https://github-readme-stats-eight-theta-46.vercel.app/api/top-langs/?username=shubhamparmarp70&layout=compact&theme=radical)
 ---
 
 ## 🏆 Achievements
