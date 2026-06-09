@@ -1,4 +1,4 @@
-![Shubham Rajput Banner](Shubham-Rajput.png)
+![Shubham-Rajput Banner](Shubham-Rajput.png)
 
 
 # 👋 Hi, I'm Shubham Rajput
