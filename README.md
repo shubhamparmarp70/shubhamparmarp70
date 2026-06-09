@@ -1,3 +1,6 @@
+![Shubham Rajput Banner](Shubham-Rajput.png)
+
+
 # 👋 Hi, I'm Shubham Rajput
 
 ## ☕ Java Developer | Spring Boot | AI Enthusiast
