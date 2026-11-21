@@ -3,8 +3,7 @@
 
 # 👋 Hi, I'm Shubham Rajput
 
-## ☕ Java Developer | Spring Boot | AI Enthusiast
-
+## ☕ Java Full Stack Developer | Software Developer | Spring Boot | React | REST APIs | MySQL | Building scalable applications and exploring AI solutions.
 I am a passionate backend developer focused on building scalable, secure, and efficient applications using Java and Spring Boot.
 
 I enjoy designing REST APIs, working with databases, and exploring AI-powered solutions.
