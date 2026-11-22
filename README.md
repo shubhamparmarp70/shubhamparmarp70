@@ -34,6 +34,16 @@ I enjoy designing REST APIs, working with databases, and exploring AI-powered so
 🧩 Hibernate / JPA  
 🏗️ MVC Architecture  
 
+### Frontend Development
+⚛️ React.js
+🌐 HTML5
+🎨 CSS3
+⚡ JavaScript (ES6+)
+💨 Tailwind CSS
+📱 Responsive Design
+🔄 REST API Integration
+🧭 React Router
+
 ### Database
 🗄️ MySQL  
 📊 Database Design  
